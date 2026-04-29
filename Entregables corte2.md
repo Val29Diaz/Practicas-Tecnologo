@@ -64,6 +64,8 @@ Descripción:
 
 **Evidencia 4:**  
 (Insertar imagen del inventario en el cuarto de TI)  
+<img width="542" height="364" alt="image" src="https://github.com/user-attachments/assets/252c63b7-c4ff-4acb-8926-450139fb4681" />
+
 Descripción:
 
 **Evidencia 5:**  
