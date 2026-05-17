@@ -1,12 +1,81 @@
-# DOFA DEL PROYECTO DE PRÁCTICAS
+# PLAN DE TRABAJO INICIAL (Proyecto de practicas)
 
 **Empresa:** PAF (Purificación y Análisis de Fluidos S.A.S)  
 **Área:** Tecnología de la Información (TI)  
 **Proyecto:** Centralización y gestión de inventario de hardware y software  
 
 ---
+# 1. TÍTULO 
 
-## Descripción del Proyecto
+## “Sistema de gestión e inventario tecnológico para el área TI”
+
+# 2. OBJETIVO GENERAL
+
+Diseñar e implementar una solución web orientada a la gestión e inventario de activos tecnológicos de PURIFICACION Y ANALISIS DE FLUIDOS SAS, con el fin de centralizar la información de los equipos, optimizar los procesos documentales y facilitar la visualización y análisis de datos mediante herramientas estadísticas y dashboards interactivos.
+
+# 3. OBJETIVOS ESPECÍFICOS
+
+- Realizar el levantamiento y organización de la información correspondiente a los equipos tecnológicos asignados a los colaboradores de la empresa.
+
+- Consolidar y estructurar la información obtenida mediante formularios, hojas de cálculo y registros internos. 
+
+- Diseñar una base de datos organizada para el control de equipos de cómputo, dispositivos móviles y software corporativo.
+Desarrollar un dashboard web interactivo para la visualización de estadísticas y métricas relacionadas con los activos tecnológicos.
+
+- Implementar funcionalidades de búsqueda, filtrado y exportación de información en formatos Excel y PDF.
+
+- Automatizar parcialmente la generación documental de actas de entrega y devolución de equipos tecnológicos.
+
+- Mejorar el proceso de consulta y seguimiento de los activos tecnológicos del área TI mediante herramientas digitales.
+
+# 4. PLANTEAMIENTO DEL PROBLEMA
+
+Actualmente, el área de tecnología de PURIFICACION Y ANALISIS DE FLUIDOS SAS no cuenta con un sistema centralizado y estructurado para la gestión de los activos tecnológicos asignados a los colaboradores de la organización.
+
+La información relacionada con equipos de cómputo, dispositivos móviles, programas instalados y asignaciones se encontraba distribuida en múltiples hojas de cálculo y registros manuales, dificultando el control, consulta y actualización de los datos.
+
+Durante el desarrollo de la práctica empresarial se evidenció que gran parte de los procesos se realizaban manualmente mediante Microsoft Excel, incluyendo la consolidación de información, generación de reportes, elaboración de tablas dinámicas y creación de actas de entrega de equipos. Esta metodología generaba demoras operativas, duplicidad de información, dificultad en el análisis estadístico y limitaciones en la visualización de datos relevantes para la toma de decisiones.
+
+Adicionalmente, la empresa maneja modalidades de trabajo remoto e híbrido, lo cual incrementa la necesidad de contar con un control organizado y actualizado sobre los activos tecnológicos asignados a cada colaborador.
+
+Por esta razón surge la necesidad de diseñar e implementar una solución tecnológica que permita centralizar la información, optimizar los procesos documentales y facilitar la administración de los recursos tecnológicos mediante un sistema web interactivo y automatizado.
+
+# 5. JUSTIFICACIÓN
+
+La implementación de un sistema de gestión e inventario tecnológico permitirá optimizar significativamente los procesos internos relacionados con el control de activos tecnológicos en PURIFICACION Y ANALISIS DE FLUIDOS SAS.
+
+Actualmente, la organización realiza gran parte de estos procedimientos de manera manual utilizando hojas de cálculo y procesos repetitivos, lo cual incrementa el tiempo de gestión y dificulta el acceso rápido a información confiable y organizada.
+
+El desarrollo de una solución web permitirá centralizar la información de equipos de cómputo, dispositivos móviles y software corporativo, facilitando la visualización de datos mediante dashboards interactivos, estadísticas y reportes automatizados.
+
+Además, la automatización parcial de documentos como actas de entrega y devolución reducirá tiempos operativos y minimizará errores humanos asociados al diligenciamiento manual.
+
+Desde el punto de vista académico y profesional, este proyecto fortalece competencias relacionadas con gestión TI, análisis de datos, automatización de procesos, desarrollo web y administración tecnológica, aplicando conocimientos propios del área de ingeniería de telecomunicaciones y tecnologías de la información.
+
+# 6. ALCANCE
+
+El proyecto contempla el diseño e implementación de un sistema web orientado a la gestión e inventario de activos tecnológicos de la empresa.
+
+La solución permitirá:
+
+centralizar la información de los equipos tecnológicos,
+organizar datos de usuarios y dispositivos,
+visualizar estadísticas mediante dashboards,
+generar reportes,
+exportar información,
+y automatizar parcialmente la generación de actas de entrega de equipos.
+
+El sistema incluirá módulos de:
+
+autenticación,
+inventario TI,
+gestión de dispositivos móviles,
+visualización estadística,
+y generación de reportes.
+
+El alcance del proyecto se limita al desarrollo de una solución de apoyo para el área TI, utilizando información recolectada durante la práctica empresarial.
+
+## 7. Descripción del Proyecto
 
 El proyecto consiste en el diseño e implementación de una base de datos centralizada para el control de activos tecnológicos de la empresa, incluyendo:
 
@@ -18,63 +87,4 @@ El proyecto consiste en el diseño e implementación de una base de datos centra
 
 Este sistema responde a la necesidad actual de la empresa, donde no existe un control formal, especialmente considerando que gran parte de los colaboradores trabajan en modalidad híbrida y remota.
 
----
 
-## Análisis DOFA
-
-<img width="751" height="583" alt="image" src="https://github.com/user-attachments/assets/c8c9c261-dc65-49b0-9169-4ceb05a76748" />
-
-### Fortalezas (Factores Internos Positivos)
-
-- Existencia de un área TI con conocimientos técnicos en redes y sistemas.
-- Acceso a información interna de usuarios y equipos.
-- Identificación clara del problema (falta de control), lo que facilita la adopción del proyecto.
-- Disponibilidad de herramientas tecnológicas (Excel avanzado, SQL, sistemas de bases de datos).
-- Disposición organizacional para mejorar procesos internos.
-- Capacidad del practicante para diseñar e implementar la solución.
-
-### Debilidades (Factores Internos Negativos)
-
-- Ausencia de un sistema centralizado de gestión de activos TI.
-- Falta de registros formales de entrega y devolución de equipos.
-- Recolección inicial de datos manual y dispersa.
-- Recursos limitados en el área TI para desarrollo y mantenimiento.
-- Falta de estandarización en procesos y documentación.
-- Dificultad de control sobre equipos en modalidad remota o híbrida.
-
-### Oportunidades (Factores Externos Positivos)
-
-- Tendencia al trabajo remoto/híbrido que impulsa la digitalización.
-- Disponibilidad de herramientas tecnológicas de bajo costo (open-source o cloud).
-- Implementación de buenas prácticas como IT Asset Management (ITAM).
-- Mejora en la seguridad, trazabilidad y control de activos.
-- Generación de reportes en tiempo real para la toma de decisiones.
-- Escalabilidad del sistema para el crecimiento futuro de la empresa.
-
-### Amenazas (Factores Externos Negativos)
-
-- Riesgos de ciberseguridad en sistemas centralizados.
-- Pérdida o daño de equipos en trabajo remoto.
-- Uso indebido de software sin licencias.
-- Resistencia al cambio por parte de los empleados.
-- Cambios regulatorios en protección de datos.
-- Limitaciones presupuestales para herramientas más avanzadas.
-
----
-
-## Cronograma de Actividades del Proyecto
-
-<img width="848" height="602" alt="image" src="https://github.com/user-attachments/assets/291292d1-9555-46ab-9974-011b6ac7c8d5" />
-
-
-
-El proyecto se desarrollará en un periodo aproximado de 16 semanas (4 meses), dividido en fases:
-
-| Fase | Actividad | Descripción | Tiempo | Indicador de Cumplimiento |
-|------|----------|------------|--------|--------------------------|
-| 1 | Planificación | Levantamiento de requerimientos y diseño inicial de la base de datos | Semanas 1-2 | Documento de requisitos aprobado |
-| 2 | Análisis | Inventario actual de hardware, software y usuarios | Semanas 3-4 | Base de datos inicial (CSV o Excel) |
-| 3 | Diseño y Desarrollo | Creación de la base de datos, tablas, formularios y módulos | Semanas 5-9 | Sistema funcional (prototipo) |
-| 4 | Pruebas | Validación del sistema con usuarios (incluyendo remotos) | Semanas 10-12 | 90% de errores corregidos |
-| 5 | Implementación | Puesta en producción, capacitación y documentación | Semanas 13-15 | Sistema en uso + manual entregado |
-| 6 | Cierre | Evaluación final y entrega del proyecto | Semana 16 | Informe final + 100% activos registrados |
