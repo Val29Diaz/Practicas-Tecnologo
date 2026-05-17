@@ -125,4 +125,16 @@ Este sistema responde a la necesidad actual de la empresa, donde no existe un co
 - Cambios regulatorios en protección de datos.
 - Limitaciones presupuestales para herramientas más avanzadas.
 ----
+## Cronograma de Actividades del Proyecto 
+<img width="848" height="602" alt="image" src="https://github.com/user-attachments/assets/291292d1-9555-46ab-9974-011b6ac7c8d5" /> 
 
+El proyecto se desarrollará en un periodo aproximado de 16 semanas (4 meses), dividido en fases:
+
+| Fase | Actividad | Descripción | Tiempo | Indicador de Cumplimiento |
+|------|----------|------------|--------|--------------------------|
+| 1 | Planificación | Levantamiento de requerimientos y diseño inicial de la base de datos | Semanas 1-2 | Documento de requisitos aprobado |
+| 2 | Análisis | Inventario actual de hardware, software y usuarios | Semanas 3-4 | Base de datos inicial (CSV o Excel) |
+| 3 | Diseño y Desarrollo | Creación de la base de datos, tablas, formularios y módulos | Semanas 5-9 | Sistema funcional (prototipo) |
+| 4 | Pruebas | Validación del sistema con usuarios (incluyendo remotos) | Semanas 10-12 | 90% de errores corregidos |
+| 5 | Implementación | Puesta en producción, capacitación y documentación | Semanas 13-15 | Sistema en uso + manual entregado |
+| 6 | Cierre | Evaluación final y entrega del proyecto | Semana 16 | Informe final + 100% activos registrados |
