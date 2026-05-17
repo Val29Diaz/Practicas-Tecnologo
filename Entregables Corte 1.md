@@ -5,15 +5,15 @@
 **Proyecto:** Centralización y gestión de inventario de hardware y software  
 
 ---
-# 1. TÍTULO 
+## 1. TÍTULO 
 
 ## “Sistema de gestión e inventario tecnológico para el área TI”
 
-# 2. OBJETIVO GENERAL
+## 2. OBJETIVO GENERAL
 
 Diseñar e implementar una solución web orientada a la gestión e inventario de activos tecnológicos de PURIFICACION Y ANALISIS DE FLUIDOS SAS, con el fin de centralizar la información de los equipos, optimizar los procesos documentales y facilitar la visualización y análisis de datos mediante herramientas estadísticas y dashboards interactivos.
 
-# 3. OBJETIVOS ESPECÍFICOS
+## 3. OBJETIVOS ESPECÍFICOS
 
 - Realizar el levantamiento y organización de la información correspondiente a los equipos tecnológicos asignados a los colaboradores de la empresa.
 
@@ -28,7 +28,7 @@ Desarrollar un dashboard web interactivo para la visualización de estadísticas
 
 - Mejorar el proceso de consulta y seguimiento de los activos tecnológicos del área TI mediante herramientas digitales.
 
-# 4. PLANTEAMIENTO DEL PROBLEMA
+## 4. PLANTEAMIENTO DEL PROBLEMA
 
 Actualmente, el área de tecnología de PURIFICACION Y ANALISIS DE FLUIDOS SAS no cuenta con un sistema centralizado y estructurado para la gestión de los activos tecnológicos asignados a los colaboradores de la organización.
 
@@ -40,7 +40,7 @@ Adicionalmente, la empresa maneja modalidades de trabajo remoto e híbrido, lo c
 
 Por esta razón surge la necesidad de diseñar e implementar una solución tecnológica que permita centralizar la información, optimizar los procesos documentales y facilitar la administración de los recursos tecnológicos mediante un sistema web interactivo y automatizado.
 
-# 5. JUSTIFICACIÓN
+## 5. JUSTIFICACIÓN
 
 La implementación de un sistema de gestión e inventario tecnológico permitirá optimizar significativamente los procesos internos relacionados con el control de activos tecnológicos en PURIFICACION Y ANALISIS DE FLUIDOS SAS.
 
@@ -52,7 +52,7 @@ Además, la automatización parcial de documentos como actas de entrega y devolu
 
 Desde el punto de vista académico y profesional, este proyecto fortalece competencias relacionadas con gestión TI, análisis de datos, automatización de procesos, desarrollo web y administración tecnológica, aplicando conocimientos propios del área de ingeniería de telecomunicaciones y tecnologías de la información.
 
-# 6. ALCANCE
+## 6. ALCANCE
 
 El proyecto contempla el diseño e implementación de un sistema web orientado a la gestión e inventario de activos tecnológicos de la empresa.
 
@@ -87,4 +87,42 @@ El proyecto consiste en el diseño e implementación de una base de datos centra
 
 Este sistema responde a la necesidad actual de la empresa, donde no existe un control formal, especialmente considerando que gran parte de los colaboradores trabajan en modalidad híbrida y remota.
 
+--- 
+
+## Análisis DOFA
+
+<img width="751" height="583" alt="image" src="https://github.com/user-attachments/assets/c8c9c261-dc65-49b0-9169-4ceb05a76748" />
+
+### Fortalezas (Factores Internos Positivos)
+- Existencia de un área TI con conocimientos técnicos en redes y sistemas. 
+- Acceso a información interna de usuarios y equipos. 
+- Identificación clara del problema (falta de control), lo que facilita la adopción del proyecto. 
+- Disponibilidad de herramientas tecnológicas (Excel avanzado, SQL, sistemas de bases de datos). 
+- Disposición organizacional para mejorar procesos internos. 
+- Capacidad del practicante para diseñar e implementar la solución. 
+
+### Debilidades (Factores Internos Negativos) 
+- Ausencia de un sistema centralizado de gestión de activos TI. 
+- Falta de registros formales de entrega y devolución de equipos. 
+- Recolección inicial de datos manual y dispersa. 
+- Recursos limitados en el área TI para desarrollo y mantenimiento. 
+- Falta de estandarización en procesos y documentación. 
+- Dificultad de control sobre equipos en modalidad remota o híbrida. 
+
+### Oportunidades (Factores Externos Positivos) 
+- Tendencia al trabajo remoto/híbrido que impulsa la digitalización.
+- Disponibilidad de herramientas tecnológicas de bajo costo (open-source o cloud).
+- Implementación de buenas prácticas como IT Asset Management (ITAM).
+- Mejora en la seguridad, trazabilidad y control de activos.
+- Generación de reportes en tiempo real para la toma de decisiones.
+- Escalabilidad del sistema para el crecimiento futuro de la empresa. 
+
+### Amenazas (Factores Externos Negativos) 
+- Riesgos de ciberseguridad en sistemas centralizados.
+- Pérdida o daño de equipos en trabajo remoto.
+- Uso indebido de software sin licencias.
+- Resistencia al cambio por parte de los empleados.
+- Cambios regulatorios en protección de datos.
+- Limitaciones presupuestales para herramientas más avanzadas.
+----
 
