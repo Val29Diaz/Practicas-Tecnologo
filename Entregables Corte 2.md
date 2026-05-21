@@ -57,11 +57,13 @@ https://forms.office.com/Pages/ResponsePage.aspx?id=-zvd82zm5UySngcPuf6qyRVxrAdZ
 Descripción:
 
 **Evidencia 2:**  
-(Insertar imagen de la integración con Word - actas)  
+<img width="1192" height="781" alt="image" src="https://github.com/user-attachments/assets/0093aa9c-ce91-4014-ab44-1e03882eea6d" />
+
 Descripción:
 
 **Evidencia 3:**  
-(Insertar imagen de toma de datos manual de equipos)  
+<img width="1447" height="782" alt="image" src="https://github.com/user-attachments/assets/285e24e7-47d9-4901-b943-14eb7ce48fe4" />
+
 Descripción:
 
 **Evidencia 4:**  
@@ -71,7 +73,10 @@ Descripción:
 Descripción:
 
 **Evidencia 5:**  
-(Insertar imagen de la base de datos o registros iniciales)  
+<img width="1438" height="603" alt="Captura de pantalla 2026-05-20 220903" src="https://github.com/user-attachments/assets/594b5b1e-048a-4657-b075-fbfdbd310657" />
+<img width="1469" height="1009" alt="Captura de pantalla 2026-05-20 220850" src="https://github.com/user-attachments/assets/e4efe1b0-0fd3-49eb-b5ed-48619ead9721" />
+<img width="479" height="934" alt="Captura de pantalla 2026-05-20 220914" src="https://github.com/user-attachments/assets/2374405d-b0d2-45f2-b11f-1ba4a0e40b76" />
+
 Descripción:
 
 ---
